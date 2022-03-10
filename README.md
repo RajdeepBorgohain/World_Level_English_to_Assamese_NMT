@@ -1,9 +1,5 @@
-# NextDayProfitGeneration
-Predicting the next day gap-up opening of any stock using Machine Learning.
-
-Neural Machine Translation for English to Assamese using Publicly Avaliable Dataset
 # Word Level Translation from English to Assamese
-
+Neural Machine Translation for English to Assamese using Publicly Avaliable Dataset
 
 <h1>Using ENCODER DECODER (Teacher Forcing)</h1>
 
